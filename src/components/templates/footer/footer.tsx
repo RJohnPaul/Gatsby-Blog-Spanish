@@ -19,7 +19,16 @@ export const Footer = () => {
             target="_blank"
             className="text-blue500"
           >
-            John Paul alongside with Contentful
+            Contentful
+          </Link>
+          <a>And Also By&nbsp;</a>
+          <Link
+            href="https://john-porfolio.vercel.app"
+            rel="noopener noreferrer"
+            target="_blank"
+            className="text-blue500"
+          >
+            John Paul
           </Link>
         </div>
       </Container>
